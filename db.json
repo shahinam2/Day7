@@ -1,0 +1,23 @@
+{
+    "users": [
+      {
+        "username": "geeks",
+        "password": "pass123",
+        "fullname": "John Doe",
+        "email": "johndoe@mail.com",
+        "id": 1
+      },
+      {
+        "username": "shade",
+        "password": "secretkey",
+        "fullname": "Fahim Ahmadi",
+        "email": "fahim@mail.com",
+        "id": 2
+      },
+      {
+        "username": "testUser",
+        "password": "pass123",
+        "id": 3
+      }
+    ]
+  }
