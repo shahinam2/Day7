@@ -48,5 +48,5 @@ console.log(email, dbPassword, port);
 /* ---------------------------------- port ---------------------------------- */
 app.listen(
     port,
-    console.log(`server is up on address: http://192.168.1.159:${port}. 👻`)
+    console.log(`Server is running on port: ${port}. 👻`)
 );
